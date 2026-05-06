@@ -1,0 +1,10 @@
+# --- Backend API ---
+fastapi
+uvicorn
+
+# --- Data Science & ML ---
+pandas
+scikit-learn
+
+# --- Graph Database ---
+neo4j
